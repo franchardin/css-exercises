@@ -1,0 +1,15 @@
+.odd {
+  background-color: #ffa6a6;
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+.font24 {
+  font-size: 24px;
+}
+#unique {
+  color: #0000b4;
+  font-size: 36px;
+}
+#unique2 {
+  background-color: #c2fd6a;
+  font-style: bold;
+}
